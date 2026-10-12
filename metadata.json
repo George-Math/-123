@@ -1,0 +1,6 @@
+{
+  "name": "رخصتي",
+  "description": "تطبيق ذكي وشامل لمتابعة رخص السيارات وتواريخ الانتهاء والفحص الدوري والتأمين مع تنبيهات استباقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
